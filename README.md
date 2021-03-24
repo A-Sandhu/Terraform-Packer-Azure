@@ -2,12 +2,12 @@
 
 Here is the tasks list:
 
-Set up your Terraform deployment.
+1- Set up your Terraform deployment.
 
-Use variables and outputs for Terraform deployment.
+2- Use variables and outputs for Terraform deployment.
 
-Create and deploy a network infrastructure.
+3- Create and deploy a network infrastructure.
 
-Create a custom virtual machine image by using Packer.
+4- Create a custom virtual machine image by using Packer.
 
-Create and deploy a virtual machine scale set by using the custom image.
+5- Create and deploy a virtual machine scale set by using the custom image.
