@@ -1,0 +1,1 @@
+# To Create an Azure virtual machine scale set from a Packer custom image by using Terraform.
